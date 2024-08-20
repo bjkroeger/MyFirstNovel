@@ -1,1 +1,2 @@
-First edit of file1
+master:
+First edit of file1 
