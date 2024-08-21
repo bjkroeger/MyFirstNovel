@@ -1,4 +1,8 @@
 Small book:
 First edit in file1 
 Second edit in file1
+<<<<<<< HEAD
 third edit in filegit 1
+=======
+third edit in file1
+>>>>>>> small_book

@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 master:
+=======
+Small book:
+>>>>>>> small_book
 First change in file2 
 Second change in file2
+Third edit in file2
