@@ -1,3 +1,4 @@
 master:
+chapter 2:
 First change in file2 
 Second change in file2
