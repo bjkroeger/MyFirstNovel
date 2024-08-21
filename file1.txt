@@ -1,3 +1,4 @@
-master:
-First edit of file1
-Second edit of file1  
+Small book:
+First edit in file1 
+Second edit in file1
+third edit in filegit 1
