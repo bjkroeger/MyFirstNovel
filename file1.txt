@@ -1,2 +1,3 @@
-First edit 
-Second edit after branch small_book
+Small book:
+First edit in file1 
+Second edit in file1
