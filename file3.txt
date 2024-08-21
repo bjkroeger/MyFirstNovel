@@ -1,13 +1,2 @@
-<<<<<<< HEAD
-master: 
 First change in file3
 Second change in file3
-=======
-Small book:
-First change in file3
-Second change in file3
-<<<<<<< HEAD
->>>>>>> small_book
-=======
-third change in file3
->>>>>>> small_book
